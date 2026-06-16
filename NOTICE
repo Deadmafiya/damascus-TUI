@@ -1,0 +1,23 @@
+Damascus UI (v0.9 interim)
+==========================
+
+This is a rebranded build of eDEX-UI, used as the interim user interface for
+Damascus OS (v0.9). It is distributed under the GNU General Public License v3.0
+(see the LICENSE file).
+
+Upstream work
+-------------
+
+eDEX-UI — "A science fiction desktop running everywhere."
+  Copyright (c) 2021 Gabriel SAILLARD (GitSquared) and eDEX-UI contributors.
+  Source: https://github.com/GitSquared/edex-ui
+  License: GPL-3.0
+
+Damascus UI rebranding (productName / window title) and packaging:
+  Copyright (c) 2026 Damascus OS. Licensed GPL-3.0 (same as upstream).
+
+As required by the GPL-3.0, the upstream copyright and credits are retained.
+Damascus UI is not endorsed by or affiliated with the eDEX-UI authors.
+
+Note: this v0.9 interim ships the original Electron-based eDEX-UI. A lightweight
+Tauri rebuild (ui/damascus-ui/) is the target for Damascus UI v1.0.
